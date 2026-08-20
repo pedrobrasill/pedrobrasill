@@ -1,6 +1,6 @@
 <!-- HEADER COM GRADIENT -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Pedro+Brasill;Full+Stack+Developer;Building+Modern+Web+Applications" alt="Pedro Brasill">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Pedro+Brasill;Full+Stack+Developer;Building+Modern+Web+Applications" alt="Pedro Brasil">
 </div>
 
 <!-- GRADIENT LINE -->
