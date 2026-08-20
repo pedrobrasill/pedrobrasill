@@ -82,9 +82,15 @@ const pedrobrasill = {
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrobrasill&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/pedrobrasill)
+<!-- GitHub Stats com tema dark -->
+<a href="https://github.com/pedrobrasill">
+  <img height="180em" src="https://github-readme-stats-git-main-pedrobrasill.vercel.app/api?username=pedrobrasill&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+</a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobrasill&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/pedrobrasill)
+<!-- Top Languages -->
+<a href="https://github.com/pedrobrasill">
+  <img height="180em" src="https://github-readme-stats-git-main-pedrobrasill.vercel.app/api/top-langs/?username=pedrobrasill&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</a>
 
 </div>
 
@@ -96,7 +102,7 @@ const pedrobrasill = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-pedrobrasill-181717?style=for-the-badge&logo=github)](https://github.com/pedrobrasill)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Brasill-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pedrobrasill)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:pedrobrasill@exemplo.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:pedroedbrasil@gmail.com)
 
 </div>
 
