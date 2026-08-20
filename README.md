@@ -1,6 +1,6 @@
 <!-- HEADER COM GRADIENT -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Pedro+Brasill;Full+Stack+Developer;Building+Modern+Web+Applications" alt="Pedro Brasil">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Pedro+Brasill;Full+Stack+Developer;Transforming+Ideas+Into+Reality" alt="Typing SVG" />
 </div>
 
 <!-- GRADIENT LINE -->
@@ -12,7 +12,7 @@
 
 Desenvolvedor **Full Stack** focado na criação de aplicações web modernas, escaláveis e orientadas a resultados. Transformo ideias e necessidades de negócio em produtos digitais funcionais, performáticos e seguros.
 
-Trabalho do **frontend ao backend**, desenvolvendo desde interfaces sofisticadas e responsivas até APIs robustas, bancos de dados otimizados, autenticação segura, integrações complexas e infraestrutura em produção.
+Trabalho do **frontend ao backend**, desenvolvendo desde interfaces sofisticadas e responsivas até APIs robustas, bancos de dados otimizados, autenticação segura, integrações complexas e infraestrutura em produção com **CI/CD**.
 
 ---
 
@@ -82,9 +82,9 @@ const pedrobrasill = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrobrasill&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrobrasill&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/pedrobrasill)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobrasill&theme=tokyonight&layout=compact&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobrasill&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/pedrobrasill)
 
 </div>
 
@@ -96,7 +96,7 @@ const pedrobrasill = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-pedrobrasill-181717?style=for-the-badge&logo=github)](https://github.com/pedrobrasill)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Brasill-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pedrobrasill)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:seu-email@exemplo.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:pedrobrasill@exemplo.com)
 
 </div>
 
