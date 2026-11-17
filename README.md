@@ -6,7 +6,7 @@
 
 Aplicações web, produtos digitais e automações para negócios.
 
-[LinkedIn](https://www.linkedin.com/in/pedrobrasill/) · [E-mail](mailto:pedroedbrasil@gmail.com) · [Mandala Rio](https://mandalario.app) · [CliniBoss](https://cliniboss.com)
+[LinkedIn](https://www.linkedin.com/in/pedrobrasill/) · [E-mail](mailto:pedroedbrasil@gmail.com) 
 
 </div>
 
